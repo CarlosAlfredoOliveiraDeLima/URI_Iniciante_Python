@@ -1,8 +1,14 @@
 # Default ignored files
 /shelf/
+/inspectionProfiles
+/misc.xml
+/modules.xml
+/URI_Iniciante_Python.iml
+/vcs.xml
 /workspace.xml
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
